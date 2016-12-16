@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SmartHome IoT Application tutorial on YouTube channel"
+author: The embARC Team
 ---
 
 A new 5-part video series on how to build an IoT SmartHome application using Amazon AWS IoT and embARC has been published to our YouTube channel.  
