@@ -20,7 +20,7 @@ subtitle: "- Embedded Development Community for ARC Processors"
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 # baseurl: "/" # the subpath of your site
-url: "hhttps://fbedard.github.io" # the base hostname & protocol for your site
+url: "https://fbedard.github.io" # the base hostname & protocol for your site
 baseurl: "/crabme"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
