@@ -195,8 +195,8 @@ font header .navbar-default .navbar-nav li a:hover {
   background-size: cover;
   background-attachment: fixed;
   padding: 70px 0px;
-  position: left;
-  text-align: center;
+  position: relative;
+  text-align: left;
   color: #fff;
 }
 #call-to-action:before {
